@@ -9,6 +9,7 @@ This Python code is simple to understand, Basically as the Title says Leaves gui
  
 # Credits
 Dusty#7244
+
 zesty#6969 - Coding Support (Quest Systems) 
 
 # Yes this is a simple and easy to code bot, But i've been really bored. More bot coming soon!
